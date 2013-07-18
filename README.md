@@ -55,16 +55,18 @@ classes to generate 1D and 2D barcodes in various formats.
  Layers and object visibility.
  PDF/A-1b support.
 
-## Installation (full instructions on http:  www.tcpdf.org):
+## Installation 
+### Full instructions on http://www.tcpdf.org:
+
 1. copy the folder on your Web server
 2. set your installation path and other parameters on the config/tcpdf_config.php
 3. call the examples/example_001.php page with your browser to see an example
 
 ## Source Code Documentation:
-	http://www.tcpdf.org
+http://www.tcpdf.org
 
 ## Additional Documentation:
-	http://www.tcpdf.org
+http://www.tcpdf.org
 
 ## License
 	Copyright (C) 2002-2013  Nicola Asuni - Tecnick.com LTD
